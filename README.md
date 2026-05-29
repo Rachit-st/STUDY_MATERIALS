@@ -2,3 +2,5 @@
 <br>
 <h4>THIS IS MY FIRST REPOSITORY </h4>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMEeA4mo1m60PRuuWrVycyfzyeXSTJFY9sA&s" alt='hellow image'>
+<br>
+<h4>HERE ILL UPLOAD THINGS THAT IM LEARNING ILL DRY RUN CODES AND SAVE/UPLOAD HERE SO I CAN TRACK MY PROGRESS</h4>
