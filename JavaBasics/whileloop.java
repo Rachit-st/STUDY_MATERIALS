@@ -4,7 +4,7 @@ class whileloop {
         Scanner input = new Scanner(System.in);
         int i= 0;
         while (i<11){
-            System.out.println(i+" ");
+            System.out.print(i+" ");// for numbers in horizontal way
             i++;
         }
     }

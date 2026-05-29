@@ -1,6 +1,6 @@
 // no hints 
 import java.util.Scanner;
-class question2 {
+class calculator {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("enter first number:");
