@@ -1,9 +1,9 @@
+import java.util.Scanner;
 class testtable {
     public static void main(String[] args){
-        int a = 0;
+        Scanner input = new Scanner(System.in);
         for(int i = 0; i < 11; i= i + 1){
-            a = i * 2;
-            System.out.println(a);
+            System.out.println(i*2);
         }
         
     }
