@@ -1,4 +1,4 @@
-# IDK
-first repository idk what i have to do 
+# HI
+<h1>HI MY NAME IS RACHIT OMAR</h1>
 <br>
-hi my name is rachit and this is my first repository 
+<h2>THIS IS MY FIRST REPOSITORY </h2>
