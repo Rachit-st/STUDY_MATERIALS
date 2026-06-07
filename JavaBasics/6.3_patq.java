@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class patq3{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
@@ -14,7 +15,14 @@ class patq3{
                     System.out.print("  ");
                 }
             }
-            System.out.println(); 
+            System.out.println();
+        }
+        for(int i = 0; i < n; i++){        //second way to do this question
+            for(int j = 0; j <= i; j++){
+                System.out.print("* ");
+            }
+            System.out.println();
         }
     }
 }
+        
