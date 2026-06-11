@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-class whileloop {
+class L06_whileloop {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int i= 0;

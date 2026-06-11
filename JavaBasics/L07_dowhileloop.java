@@ -1,4 +1,4 @@
-class dowileloop {
+class L07_dowhileloop {
     public static void main(String[] args){
         int i = 0;
         do {

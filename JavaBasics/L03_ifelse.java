@@ -1,5 +1,5 @@
 import java.util.*;
-class ifelse {
+class L03_ifelse {
     public static void main(String[]agrs){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number:");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Firstclass {
+class L01_Firstclass {
     public static void main(String[] args) {
         Scanner INPUT = new Scanner(System.in);
         System.out.println("Hello World");

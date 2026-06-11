@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class patq4 {
+class L13_patq4 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter coulumn:");

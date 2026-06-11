@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class patq2 {
+class L11_patq2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter Numbers Of Rows:");

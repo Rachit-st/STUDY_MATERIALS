@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class patq5{
+class L14_patq5{
     public static void main(String[] args) {
         Scanner INPUT = new Scanner(System.in);
         System.out.println("Enter column:");
