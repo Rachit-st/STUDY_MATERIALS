@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class L19_advpatq1{
+class advpatq1{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = 0;

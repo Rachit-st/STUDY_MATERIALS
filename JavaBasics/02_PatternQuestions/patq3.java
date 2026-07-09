@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class L12_patq3{
+class patq3{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("NO. OF ROWS:");
