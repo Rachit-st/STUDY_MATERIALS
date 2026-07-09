@@ -1,11 +1,11 @@
-import java.util.Scanner; 
-class L06_whileloop {
+package ch01_Basics;
+
+import java.util.Scanner;
+class L05_forloop {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        int i= 0;
-        while (i<11){
+        for (int i = 0; i < 11; i++){
             System.out.print(i+" ");// for numbers in horizontal way
-            i++;
         }
     }
 }

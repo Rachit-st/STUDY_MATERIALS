@@ -1,3 +1,5 @@
+package ch01_Basics;
+
 import java.util.Scanner;
 class L01_Firstclass {
     public static void main(String[] args) {

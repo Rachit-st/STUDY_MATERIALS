@@ -1,3 +1,5 @@
+package ch01_Basics;
+
 // no hints 
 import java.util.Scanner;
 class L02_calculator {

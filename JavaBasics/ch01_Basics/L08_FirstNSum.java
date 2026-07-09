@@ -1,3 +1,5 @@
+package ch01_Basics;
+
 class L08_FirstNSum {
     public static void main(String[] args) {
         int a = 0;

@@ -1,12 +1,16 @@
+package ch02_PatternQuestions;
+
 import java.util.Scanner;
-class patq6{
+class patq8{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter columns:");
         int n = input.nextInt();
-        for(int i = 1; i<=n;i++){
-            for(int j = 1; j <= i ; j++){
-                System.out.print(j);
+        int m = 0;
+        for(int i = 1; i<=n; i++){
+            for(int j = 1; j<= i; j++){
+                m=m+1;
+                System.out.print(m + " ");
             }
         System.out.println();
         }
