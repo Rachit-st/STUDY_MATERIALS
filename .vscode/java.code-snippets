@@ -1,0 +1,151 @@
+{
+    "Main Method": {
+        "prefix": "psvm",
+        "body": [
+            "public static void main(String[] args) {",
+            "    $0",
+            "}"
+        ],
+        "description": "Java main method"
+    },
+    "System.out.println": {
+        "prefix": "sout",
+        "body": "System.out.println($0);",
+        "description": "Print to console"
+    },
+    "System.out.println variable": {
+        "prefix": "soutv",
+        "body": "System.out.println(\"$1 = \" + $1);",
+        "description": "Print variable to console"
+    },
+    "System.out.print (no newline)": {
+        "prefix": "soutp",
+        "body": "System.out.print($0);",
+        "description": "Print without newline"
+    },
+    "For loop": {
+        "prefix": "fori",
+        "body": [
+            "for (int ${1:i} = 0; ${1:i} < ${2:n}; ${1:i}++) {",
+            "    $0",
+            "}"
+        ],
+        "description": "Basic for loop"
+    },
+    "For-each loop": {
+        "prefix": "fore",
+        "body": [
+            "for (${1:String} ${2:item} : ${3:items}) {",
+            "    $0",
+            "}"
+        ],
+        "description": "Enhanced for loop"
+    },
+    "While loop": {
+        "prefix": "whil",
+        "body": [
+            "while (${1:condition}) {",
+            "    $0",
+            "}"
+        ],
+        "description": "While loop"
+    },
+    "If statement": {
+        "prefix": "iff",
+        "body": [
+            "if (${1:condition}) {",
+            "    $0",
+            "}"
+        ],
+        "description": "If statement"
+    },
+    "If-Else statement": {
+        "prefix": "ife",
+        "body": [
+            "if (${1:condition}) {",
+            "    $2",
+            "} else {",
+            "    $0",
+            "}"
+        ],
+        "description": "If-else statement"
+    },
+    "Scanner input": {
+        "prefix": "scn",
+        "body": "Scanner ${1:sc} = new Scanner(System.in);",
+        "description": "Create Scanner object"
+    },
+    "Scanner nextInt": {
+        "prefix": "scni",
+        "body": "int ${1:n} = ${2:sc}.nextInt();",
+        "description": "Read integer from scanner"
+    },
+    "Scanner nextLine": {
+        "prefix": "scns",
+        "body": "String ${1:str} = ${2:sc}.nextLine();",
+        "description": "Read string from scanner"
+    },
+    "Public class": {
+        "prefix": "pcls",
+        "body": [
+            "public class ${1:ClassName} {",
+            "    $0",
+            "}"
+        ],
+        "description": "Public class"
+    },
+    "Public method": {
+        "prefix": "pmth",
+        "body": [
+            "public ${1:void} ${2:methodName}(${3}) {",
+            "    $0",
+            "}"
+        ],
+        "description": "Public method"
+    },
+    "Static method": {
+        "prefix": "smth",
+        "body": [
+            "public static ${1:void} ${2:methodName}(${3}) {",
+            "    $0",
+            "}"
+        ],
+        "description": "Static method"
+    },
+    "Try-Catch": {
+        "prefix": "tryc",
+        "body": [
+            "try {",
+            "    $1",
+            "} catch (${2:Exception} ${3:e}) {",
+            "    $0",
+            "}"
+        ],
+        "description": "Try-catch block"
+    },
+    "Integer array": {
+        "prefix": "iarr",
+        "body": "int[] ${1:arr} = new int[${2:n}];",
+        "description": "Integer array"
+    },
+    "Integer 2D array": {
+        "prefix": "i2arr",
+        "body": "int[][] ${1:arr} = new int[${2:rows}][${3:cols}];",
+        "description": "2D integer array"
+    },
+    "ArrayList": {
+        "prefix": "arrl",
+        "body": "ArrayList<${1:Integer}> ${2:list} = new ArrayList<>();",
+        "description": "Create ArrayList"
+    },
+    "HashMap": {
+        "prefix": "hmap",
+        "body": "HashMap<${1:String}, ${2:Integer}> ${3:map} = new HashMap<>();",
+        "description": "Create HashMap"
+    },
+    "Return statement": {
+        "prefix": "ret",
+        "body": "return $0;",
+        "description": "Return statement"
+    }
+}

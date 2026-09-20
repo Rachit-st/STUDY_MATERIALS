@@ -1,0 +1,28 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.debug.settings.console": "integratedTerminal",
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+
+    "editor.tabCompletion": "onlySnippets",
+    "editor.snippetSuggestions": "top",
+
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+
+    "editor.hover.enabled": true,
+    "editor.hover.delay": 1200,
+    "editor.hover.sticky": true,
+
+    "editor.codeLens": false,
+    "editor.lightbulb.enabled": "off"
+}
