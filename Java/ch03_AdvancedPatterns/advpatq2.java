@@ -1,5 +1,3 @@
-package ch03_AdvancedPatterns;
-
 import java.util.Scanner;
 class advpatq2 {
     public static void main(String[] args) {

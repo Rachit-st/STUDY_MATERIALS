@@ -1,5 +1,3 @@
-package ch08_BitManipulation;
-
 class Clearbit {
     public static void main(String[] args) {
         int n = 5;

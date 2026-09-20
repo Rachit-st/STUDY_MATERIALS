@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q8 {
     public static double power(int a, int b){

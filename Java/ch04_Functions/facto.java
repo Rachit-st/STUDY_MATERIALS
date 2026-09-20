@@ -1,6 +1,5 @@
-package ch04_Functions;
 import java.util.*;
-class factorial {
+class facto {
     public static void factorial(int a){
         
         int b = 1;

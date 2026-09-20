@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q1 {
     public static int average(int a, int b, int c){

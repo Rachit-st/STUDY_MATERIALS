@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q10bonus{
     public static void fibonacci(int a){

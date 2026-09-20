@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q6 {
     public static void main(String[] args) {

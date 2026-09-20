@@ -1,4 +1,3 @@
-package ch04_Functions;
 import java.util.*;
 class multiplyFunction {
     public static int calculateProduct(int a, int b){

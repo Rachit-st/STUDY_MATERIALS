@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q2 {
     public static int sumn(int a){

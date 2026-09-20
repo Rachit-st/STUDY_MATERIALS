@@ -1,5 +1,3 @@
-package ch03_AdvancedPatterns;
-
 class advpatq3{
     public static void main(String[] args) {
         int n = 5;

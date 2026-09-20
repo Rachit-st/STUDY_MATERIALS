@@ -1,4 +1,3 @@
-package ch04_Functions;
 import java.util.*;
 class sumFunction {
     public static int calculateSum(int a, int b){

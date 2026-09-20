@@ -1,4 +1,3 @@
-package ch07_Strings;
 import java.util.*;
 
 class strquestion1 {

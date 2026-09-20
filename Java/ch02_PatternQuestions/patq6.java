@@ -1,5 +1,3 @@
-package ch02_PatternQuestions;
-
 import java.util.Scanner;
 class patq6{
     public static void main(String[] args) {

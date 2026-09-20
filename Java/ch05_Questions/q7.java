@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q7 {
     public static int nnumdis(int a){
