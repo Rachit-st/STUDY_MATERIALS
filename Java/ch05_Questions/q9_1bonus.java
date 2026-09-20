@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q9bonus{
     public static void hcf(int a , int b){

@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q5 {
     public static void eligibility(int a){

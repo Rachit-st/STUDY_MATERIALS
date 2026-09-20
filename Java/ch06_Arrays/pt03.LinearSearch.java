@@ -1,4 +1,3 @@
-package ch06_Arrays;
 import java.util.*;
 class pt03LinearSearch {
     public static void search(int[] arr){

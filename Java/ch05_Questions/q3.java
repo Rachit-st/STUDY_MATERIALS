@@ -1,4 +1,3 @@
-package ch05_Questions;
 import java.util.*;
 class q3 {
     public static void greaterorlesser(int a, int b){

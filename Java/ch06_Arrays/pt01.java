@@ -1,5 +1,3 @@
-package ch06_Arrays;
-
 class pt01 {
     public static void main(String[] args) {
         int[] marks = new int[3];   //or -->   ""int marks[] = {96,97,95};"" in this case we know what the values are and dont have to define afterwards 

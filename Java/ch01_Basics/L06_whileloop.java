@@ -1,5 +1,3 @@
-package ch01_Basics;
-
 import java.util.Scanner; 
 class L06_whileloop {
     public static void main(String[] args){

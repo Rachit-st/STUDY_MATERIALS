@@ -1,4 +1,3 @@
-package ch06_Arrays;
 import java.util.*;
 class pt02 {
     public static void main(String[] args) {
